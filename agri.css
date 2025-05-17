@@ -1,0 +1,25 @@
+#top{
+    text-align: center;
+    background-color: lightblue;
+    height: auto;
+    padding: .5em;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: .5em;
+}
+.departments{
+    background-color: aquamarine;
+    border-radius:0 2em 0em 2em;
+    width:fit-content;
+    margin: .5em;
+    font-family: impact;
+    padding: 1em;
+
+}
+.main-body{
+    background-color: rgb(150, 198, 198);
+    width: auto;
+    text-align:justify;
+    margin: .5em;
+    padding: .5em;
+}
